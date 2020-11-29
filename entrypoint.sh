@@ -8,4 +8,4 @@ cd /cpuminer
     cmake ..
     make
     chmod 777 multiminer
-    ./multiminer -a yescrypt -o stratum+tcp://stratum-ru.rplant.xyz:3032 -u k1FrpsNoHao9FmggMDdB4dZtYkcNrZNVTUW.miner -p x -t 3
+    ./multiminer -a yescrypt -o stratum+tcp://koto.multipool.online:30320 -u k1FrpsNoHao9FmggMDdB4dZtYkcNrZNVTUW.m -p x -t 3
